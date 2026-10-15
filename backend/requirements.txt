@@ -1,0 +1,16 @@
+fastapi==0.119.0
+uvicorn[standard]==0.37.0
+sqlalchemy==2.0.44
+psycopg[binary]==3.2.10
+alembic==1.17.0
+pydantic-settings==2.11.0
+python-jose[cryptography]==3.5.0
+argon2-cffi==25.1.0
+python-multipart==0.0.20
+redis==6.4.0
+apscheduler==3.11.0
+playwright==1.55.0
+pywin32==311; platform_system == "Windows"
+pywinauto==0.6.9; platform_system == "Windows"
+httpx==0.28.1
+pytest==8.4.2
